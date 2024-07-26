@@ -1,2 +1,8 @@
 pdfminer.six
 python-docx
+pytesseract
+pdf2image
+docx
+Pillow
+concurrent.futures
+tqdm
